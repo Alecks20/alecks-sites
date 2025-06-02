@@ -6,13 +6,18 @@ body {
 .title {
     color: rgb(175, 169, 169);
     font-size: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.link-text:hover {
+    color: rgb(83, 83, 83);
 }
 
 .subtitle {
     color: rgb(175, 169, 169);
     margin-top: 2px;
-    font-size: 18px;
+    font-size: 17px;
+    margin-left: 5px;
 }
 
 .text {
@@ -22,13 +27,13 @@ body {
 
 .box-1 {
     margin: 0 auto;
-    width: 37%;
+    width: 700px;
     padding-top: 50px;
 }
 
 ::selection {
   color: white;
-  background: rgb(114, 127, 146);
+  background: rgb(37, 39, 43);
 }
 
 .website-box {
