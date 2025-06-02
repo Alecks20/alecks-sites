@@ -30,3 +30,23 @@ body {
   color: white;
   background: rgb(114, 127, 146);
 }
+
+.website-box {
+  background-color: rgb(39, 37, 37);
+  padding: 30px;
+  margin-bottom: 10px;
+}
+
+.website-title {
+    color: rgb(175, 169, 169);
+    margin-top: 2px;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.website-description {
+    color: rgb(175, 169, 169);
+    margin-top: 2px;
+    font-size: 18px;
+}
